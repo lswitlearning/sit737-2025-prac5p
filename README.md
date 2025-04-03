@@ -24,18 +24,18 @@ npm install
 ```
 node app.js
 ```
-2. Access the app:
-Home: http://localhost:3000
-Health: http://localhost:3000/health
+2. Access the app:  
+Home: http://localhost:3000  
+Health: http://localhost:3000/health  
 
 ### Usage With Docker Compose
 1. Build and start the app with Docker:
 ```
 docker compose up --build
 ```
-2. Access from your browser:
-App: http://localhost:8081
-Health: http://localhost:8081/health
+2. Access from your browser:  
+App: http://localhost:8081  
+Health: http://localhost:8081/health  
 
 3. Check container health:
 ```
